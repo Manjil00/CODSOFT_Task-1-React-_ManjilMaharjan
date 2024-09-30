@@ -8,9 +8,9 @@ const Nav = () => {
 const toggleNavMenu = () => setIsNavOpen(!isNavOpen);
 
 return (
-    <nav className="flex justify-between px-6 py-3 z-50 relative bg-black">
+    <nav className="flex justify-between px-6 py-3 z-50 relative bg-bgcolor">
     <div className="flex justify-center items-center">
-        <h1 className='text-white ml-6  text-sm md:text-4xl font-sans
+        <h1 className='text-white ml-6  text-sm md:text-4xl font-LogoFont
 cursor-pointer flex justify-center items-center'>Manjil Maharjan</h1>
 
     </div>
