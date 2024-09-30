@@ -1,8 +1,9 @@
+import Nav from "./components/Nav";
 
 function App() {
 return (
-  <div className="main">
-    <h1 className="checl text-red-600">Checking tailwind and setup</h1>
+  <div className="main-container h-auto w-full ">
+    <Nav/>
   </div>
 );
 }

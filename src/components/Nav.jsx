@@ -8,26 +8,25 @@ const Nav = () => {
 const toggleNavMenu = () => setIsNavOpen(!isNavOpen);
 
 return (
-    <nav className="flex justify-between px-6 py-3 z-50 relative">
+    <nav className="flex justify-between px-6 py-3 z-50 relative bg-black">
     <div className="flex justify-center items-center">
-        <img className="w-10 h-10 mr-3" src="./images/GN_logo.png" alt="Logo" />
-        <h1 className='text-black ml-6  text-sm md:text-4xl font-LogoFont
-cursor-pointer flex justify-center items-center'>Gajendra Nursery</h1>
+        <h1 className='text-white ml-6  text-sm md:text-4xl font-sans
+cursor-pointer flex justify-center items-center'>Manjil Maharjan</h1>
 
     </div>
-    <div className={`bg-white absolute min-h-[30vh] left-0 top-[90%] w-full p-5 flex flex-col md:static md:flex md:min-h-fit md:w-auto gap-9 text-sm ${isNavOpen ? 'block' : 'hidden'}`}>
-        <ul className=" cursor-pointer flex flex-col gap-4 md:flex-row  md:gap-8 md:justify-evenly md:text-xl font-writingFont">
-        <Link to="/"><li className="hover:text-green-600">Home</li></Link>
-        <Link to="/Product"><li className="hover:text-green-600">Products & Decorations</li></Link>
-        <Link to="/Blog"><li className="hover:text-green-600">Blog</li></Link>
-        <Link to="/AboutUs"><li className="hover:text-green-600">About Me</li></Link>
+    <div className={` absolute min-h-[30vh] left-0 top-[90%] w-full p-5 flex flex-col md:static md:flex md:min-h-fit md:w-auto gap-9 text-sm ${isNavOpen ? 'block' : 'hidden'}`}>
+        <ul className=" cursor-pointer text-white flex flex-col gap-4 md:flex-row  md:gap-8 md:justify-evenly md:text-xl font-sans">
+        <li className="hover:text-green-600">Introduction</li>
+        <li className="hover:text-green-600">Project Showcase</li>
+        <li className="hover:text-green-600">About Me</li>
+        <li className="hover:text-green-600">Contact Info</li>
         </ul>
     </div>
     <div>
         <button onClick={toggleNavMenu} className="md:hidden">
             {
-            isNavOpen ? <RxCross1 className="text-2xl text-black" /> :
-            <RxHamburgerMenu className={`text-2xl text-black  ${isNavOpen ? 'hidden' : 'block'}`} />
+            isNavOpen ? <RxCross1 className="text-2xl text-white" /> :
+            <RxHamburgerMenu className={`text-2xl text-white  ${isNavOpen ? 'hidden' : 'block'}`} />
             }
         </button>
     </div>
