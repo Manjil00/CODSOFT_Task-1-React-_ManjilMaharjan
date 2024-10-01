@@ -5,6 +5,8 @@ import Section1 from '../components/Section1';
 import Progress from '../components/progress';
 
 
+import Marquee from "react-fast-marquee";
+
 const Introduction = () => {
 return (
 <div className="main-container h-[100vh] w-full bg-bgcolor">
@@ -37,6 +39,11 @@ return (
                 <h1 className="num text-xs md:text-2xl text-slate-500">30%</h1>
             </div>
 
+        </div>
+        <div className="techStack bg-white w-full h-[100px] mt-10">
+            <Marquee pauseOnHover={true}>
+                <img src='' className='' alt=''/>
+            </Marquee>
         </div>
         </div>
     </div>
