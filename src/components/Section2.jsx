@@ -21,10 +21,10 @@ return (
         </div>
     
         <div className="frontend flex flex-col justify-between items-center p-2 mx-2  gap-16">
-            <Progress percentage={90}/>
-            <Progress percentage={90}/>
-            <Progress percentage={40}/>
-            <Progress percentage={30}/>
+            <Progress percentage={95}/>
+            <Progress percentage={95}/>
+            <Progress percentage={60}/>
+            <Progress percentage={55}/>
         </div>
 
         <div className="backend flex flex-col justify-between items-center p-2 mx-2  gap-16">
