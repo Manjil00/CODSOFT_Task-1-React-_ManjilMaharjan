@@ -22,7 +22,7 @@ return (
         </div>
 
         <div className="img">
-        <img src='../images/pfpwhite.png' className='h-[200px] w-[150px]  lg:h-[300px] lg:w-[300px] xl:h-[450px] xl:w-[450px] rounded-full border-4 border-bgcolorlite absolute right-10 bottom-10 object-cover bg-opacity-30 ' alt='Pfp'/>
+        <img src='../images/pfpwhite.png' className='h-[200px] w-[150px]  lg:h-[300px] lg:w-[300px] xl:h-[450px] xl:w-[450px] rounded-full border-4 border-bgcolorlite absolute right-10 md:bottom-10 object-cover bg-opacity-30 ' alt='Pfp'/>
         </div>
 
     </div>
