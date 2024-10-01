@@ -7,8 +7,8 @@ import Techstack from '../components/Techstack';
 
 const Section2 = () => {
 return (
-    <div className="Section2 h-[800px] w-full bg-bgcolor px-8 ">
-    <div className="innercontainer2 bg-bgcolorlite h-full w-full rounded-xl flex flex-col justify-start items-start ">
+    <div className="Section2 h-auto w-full bg-bgcolor px-8 ">
+    <div className="innercontainer2 bg-bgcolorlite h-auto w-full rounded-xl flex flex-col justify-start items-start ">
     <h1 className="tech text-sm lg:text-4xl text-orange-500 mt-20 ml-10 font-bold ">TECHNICAL PROFICENCY</h1>
 
     <div className="Progression bg-bgcolorlite h-[400px] w-full mt-20 flex justify-center items-start gap-5">
