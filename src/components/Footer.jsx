@@ -8,7 +8,6 @@ import { AiOutlineMail } from "react-icons/ai";
 import { LuPhone } from "react-icons/lu";
 
 
-
 const Footer = () => {
 return (
 

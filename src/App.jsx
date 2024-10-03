@@ -11,9 +11,9 @@ return (
 <BrowserRouter>
 <Routes>
 <Route path="/" element={<Introduction/>} />
-        <Route path="/project" element={<Projects/>} />
-        <Route path="/aboutme" element={<Aboutme/>} />
-        <Route path="/contactinfo" element={<Contact/>} />
+        <Route path="/Projects" element={<Projects/>} />
+        <Route path="/Aboutme" element={<Aboutme/>} />
+        <Route path="/Contact" element={<Contact/>} />
 </Routes>
 </BrowserRouter>
 );
