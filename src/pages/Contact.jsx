@@ -17,7 +17,7 @@ return (
     <div className="innerContainer-contact bg-bgcolorlite h-auto w-full flex flex-col  justify-start items-start rounded-xl mt-6 p-2">
         <h1 className='text-orange-500 font-sans text-xl md:text-4xl font-bold ml-9 md:ml-14 md:mt-5'>REACH ME </h1>
         <div className="leftright flex flex-col md:flex-row justify-evenly items-center h-auto w-full ">
-        <div className="left  w-full mx-4 md:mx-20 text-xs md:text-xl flex  flex-col justify-start items-start gap-5 text-slate-500 mt-5 md:mt-0 ">
+        <div className="left  w-full mx-4 md:mx-20 text-xs md:text-xl flex  flex-col justify-start items-start gap-5 text-slate-500 mt-5 md:mt-0 md:ml-32 ">
             <h1 className='flex justify-start items-center '><AiOutlineMail /> -
                 manzilmaharjan00@gmail.com
             </h1>
@@ -29,7 +29,7 @@ return (
             </h1>
         </div>
         <div className="right bg-bgcolor h-[450px] w-[350px] md:h-[520px] md:w-[900px]
-        rounded-xl md:mr-20 p-4 mt-5 md:mt-0 flex flex-col justify-evenly items-center">
+        rounded-xl md:mr-32 p-4 mt-5 md:mt-0 flex flex-col justify-evenly items-center">
             <input className='rounded-xl h-[45px] w-[300px] place' placeholder='FullName'  type='text'></input>
             <input className='rounded-xl h-[45px] w-[300px]' placeholder='Email' type='email'></input>
             <input className='rounded-xl h-[45px] w-[300px]' placeholder='Phone-Number' type='tel'></input>
