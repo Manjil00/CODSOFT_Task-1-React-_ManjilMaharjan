@@ -25,6 +25,11 @@ className='cursor-pointer h-[20px] rounded-full p-1 bg-white w-[20px] md:w-[30px
 transition duration-300 ease-in-out m-2 md:m-0' alt='githublogo'></img>
 </a>
 
+<a href='https://medium.com/@manzilmaharjan00'>
+<img src='../icons/medium.png'
+className='cursor-pointer h-[20px] rounded-full p-1 bg-white w-[20px] md:w-[30px] md:h-[30px] hover:md:w-[50px] hover:md:h-[50px]
+transition duration-300 ease-in-out m-2 md:m-0' alt='githublogo'></img>
+</a>
 
     </div>
     

@@ -28,10 +28,10 @@ return (
         </div>
 
         <div className="backend flex flex-col justify-between items-center p-2 mx-2  gap-16">
-            <h1 className="num text-xs md:text-2xl text-slate-500">90%</h1>
-            <h1 className="num text-xs md:text-2xl text-slate-500">90%</h1>
-            <h1 className="num text-xs md:text-2xl text-slate-500">40%</h1>
-            <h1 className="num text-xs md:text-2xl text-slate-500">30%</h1>
+            <h1 className="num text-xs md:text-2xl text-slate-500">95%</h1>
+            <h1 className="num text-xs md:text-2xl text-slate-500">95%</h1>
+            <h1 className="num text-xs md:text-2xl text-slate-500">60%</h1>
+            <h1 className="num text-xs md:text-2xl text-slate-500">55%</h1>
         </div>
 
     </div>
