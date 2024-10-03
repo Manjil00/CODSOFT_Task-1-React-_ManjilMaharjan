@@ -4,7 +4,6 @@ import React from 'react';
 import Journey from '../components/Journey';
 import Nav from '../components/Nav';
 import Footer from '../components/Footer';
-
 import Resume from '../components/Resume';
 import Socials from '../components/Socials';
 import Progress from '../components/progress';
