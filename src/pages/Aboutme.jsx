@@ -24,7 +24,7 @@ return (
             <h1 className='text-xl md:text-2xl font-bold text-white'>7 Hour FullStack NextJs Bootcamp</h1>
             <p className="text-white text-xs md:text-lg font-sans font-normal break-words">Learned zod Prisma in 7 hrsssssssasdasdsadsadsadsadsaasdasdadsdssddsdsdsdsdsdsddssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssxzcxzcxzcxzcxcxzcxzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzz</p>
             </div>
-            <img src='../images/pfpwhite.png' className='bg-white h-[150px] w-[150px] md:h-[300px] md:w-[300px] mr-20' alt='certificates'/>
+            <img src='../images/certificatesimg/nextjsBootcamp.png' className='bg-white h-[150px] w-[150px] md:h-[300px] md:w-[300px] mr-20' alt='certificates'/>
         </div>
 
         <div className="certificate1 flex justify-between items-start mt-10 h-auto w-full">
@@ -32,7 +32,7 @@ return (
             <h1 className='text-xl md:text-2xl font-bold text-white'>7 Hour FullStack NextJs Bootcamp</h1>
             <p className="text-white text-xs md:text-lg font-sans font-normal break-words">Learned zod Prisma in 7 hrsssssssasdasdsadsadsadsadsaasdasdadsdssddsdsdsdsdsdsddssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssxzcxzcxzcxzcxcxzcxzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzz</p>
             </div>
-            <img src='../images/pfpwhite.png' className='bg-white h-[150px] w-[150px] md:h-[300px] md:w-[300px] mr-20' alt='certificates'/>
+            <img src='../images/certificatesimg/nextjsBootcamp.png' className='bg-white h-[150px] w-[150px] md:h-[300px] md:w-[300px] mr-20' alt='certificates'/>
         </div>
 
 
@@ -41,7 +41,7 @@ return (
             <h1 className='text-xl md:text-2xl font-bold text-white'>7 Hour FullStack NextJs Bootcamp</h1>
             <p className="text-white text-xs md:text-lg font-sans font-normal break-words">Learned zod Prisma in 7 hrsssssssasdasdsadsadsadsadsaasdasdadsdssddsdsdsdsdsdsddssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssxzcxzcxzcxzcxcxzcxzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzz</p>
             </div>
-            <img src='../images/pfpwhite.png' className='bg-white h-[150px] w-[150px] md:h-[300px] md:w-[300px] mr-20' alt='certificates'/>
+            <img src='../images/certificatesimg/nextjsBootcamp.png' className='bg-white h-[150px] w-[150px] md:h-[300px] md:w-[300px] mr-20' alt='certificates'/>
         </div>
         </div>
 
