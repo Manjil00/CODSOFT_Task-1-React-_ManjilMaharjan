@@ -20,24 +20,24 @@ return (
         <div className="certificates bg-bgcolorlite rounded-xl h-auto w-full p-3 md:mt-10 " >
         <h1 className="title font-bold text-orange-500 text-xl md:text-4xl ml-10 md:mt-10">CERTIFICATES</h1>
         <div className="certificate1 flex justify-between items-start mt-10 h-auto w-full">
-            <div className="words p-2 ml-5 w-[900px] h-[300px] gap-5">
+            <div className="words p-2 ml-5 w-[200px] md:w-[900px] h-[300px] gap-5">
+            <h1 className='text-xl md:text-2xl font-bold text-white'>7 Hour FullStack NextJs Bootcamp</h1>
+            <p className="text-white text-xs md:text-lg font-sans font-normal break-words">The 7-hour Next.js bootcamp conducted by JoibSniper was an in-depth session aimed at providing participants with a comprehensive introduction to building full-stack web applications using Next.js. The bootcamp covered both frontend and backend development, focusing on essential tools and frameworks such as Prisma for database management and Zod for data validation and type safety. Attendees learned to create and deploy projects with Next.js, emphasizing key features like server-side rendering (SSR), static site generation (SSG), and API routes.</p>
+            </div>
+            <img src='../images/certificatesimg/nextjsBootcamp.png' className='bg-white h-[150px] w-[150px] md:h-[300px] md:w-[300px] mr-20' alt='certificates'/>
+        </div>
+
+        <div className="certificate1 flex justify-between items-start mt-10 h-auto w-full">
+            <div className="words p-2 ml-5 w-[200px] md:w-[900px] h-[300px] gap-5">
             <h1 className='text-xl md:text-2xl font-bold text-white'>7 Hour FullStack NextJs Bootcamp</h1>
             <p className="text-white text-xs md:text-lg font-sans font-normal break-words">Learned zod Prisma in 7 hrsssssssasdasdsadsadsadsadsaasdasdadsdssddsdsdsdsdsdsddssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssxzcxzcxzcxzcxcxzcxzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzz</p>
             </div>
             <img src='../images/certificatesimg/nextjsBootcamp.png' className='bg-white h-[150px] w-[150px] md:h-[300px] md:w-[300px] mr-20' alt='certificates'/>
         </div>
 
-        <div className="certificate1 flex justify-between items-start mt-10 h-auto w-full">
-            <div className="words p-2 ml-5 w-[900px] h-[300px] gap-5">
-            <h1 className='text-xl md:text-2xl font-bold text-white'>7 Hour FullStack NextJs Bootcamp</h1>
-            <p className="text-white text-xs md:text-lg font-sans font-normal break-words">Learned zod Prisma in 7 hrsssssssasdasdsadsadsadsadsaasdasdadsdssddsdsdsdsdsdsddssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssxzcxzcxzcxzcxcxzcxzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzz</p>
-            </div>
-            <img src='../images/certificatesimg/nextjsBootcamp.png' className='bg-white h-[150px] w-[150px] md:h-[300px] md:w-[300px] mr-20' alt='certificates'/>
-        </div>
-
 
         <div className="certificate1 flex justify-between items-start mt-10 h-auto w-full">
-            <div className="words p-2 ml-5 w-[900px] h-[300px] gap-5">
+            <div className="words p-2 ml-5 w-[200px] md:w-[900px] h-[300px] gap-5">
             <h1 className='text-xl md:text-2xl font-bold text-white'>7 Hour FullStack NextJs Bootcamp</h1>
             <p className="text-white text-xs md:text-lg font-sans font-normal break-words">Learned zod Prisma in 7 hrsssssssasdasdsadsadsadsadsaasdasdadsdssddsdsdsdsdsdsddssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssxzcxzcxzcxzcxcxzcxzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzz</p>
             </div>
