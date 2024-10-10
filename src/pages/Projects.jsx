@@ -37,7 +37,7 @@ return (
                 <div className="imgpart  rounded-tl-xl rounded-bl-xl h-auto w-auto bg-white flex flex-col justify-center items-center">
                         <div className="upperimg flex">
                         <img src='../images/projectsimg/kerapp.png' className='h-[300px] w-[300px]' alt='pic'/>
-                        <img src='../images/projectsimg/adminpanel.png' className='h-[50%] w-[50%]' alt='pic'/>
+                        <img src='../images/projectsimg/adminpanel.png' className='h-[50%] w-[50%] hidden md:block' alt='pic'/>
                         </div>
                     <div className="part2img flex">
                     <img src='../images/projectsimg/weather.png' className='h-[50%] w-[50%]' alt='pic'/>
