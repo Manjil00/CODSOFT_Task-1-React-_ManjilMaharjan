@@ -40,25 +40,25 @@ return (
             </h1>
         </div>
         <div className="right bg-bgcolor h-[450px] w-[350px] md:h-[520px] md:w-[900px]
-        rounded-xl md:mr-32 p-4 mt-5 md:mt-0 flex flex-col justify-evenly items-center">
+        rounded-xl md:mr-32  mt-5 md:mt-0 flex flex-col justify-evenly items-center ">
             <input onChange={(e)=>setFullName(e.target.value)}
             value={fullName}
-            className='rounded-xl h-[45px] w-[300px] ' placeholder='FullName'  type='text'></input>
+            className='rounded-xl h-[45px] w-[300px] p-4' placeholder='FullName'  type='text'></input>
 
             <input  onChange={(e)=>setEmail(e.target.value)}
             value={email}
-            className='rounded-xl h-[45px] w-[300px]' placeholder='Email' type='email'></input>
+            className='rounded-xl h-[45px] w-[300px] p-4' placeholder='Email' type='email'></input>
 
             <input onChange={(e)=>setPhone(e.target.value)}
             value={phone}
-            className='rounded-xl h-[45px] w-[300px]' placeholder='Phone-Number' type='tel'></input>
+            className='rounded-xl h-[45px] w-[300px] p-4' placeholder='Phone-Number' type='tel'></input>
 
             <input onChange={(e)=>setMessage(e.target.value)}
             value={message}
-            className='rounded-xl h-[120px] w-[300px]' placeholder='Description' type='text'></input>
+            className='rounded-xl h-[120px] w-[300px] p-4 ' placeholder='Description' type='text'></input>
 
             <button onClick={handleSubmit}
-            className="submit bg-orange-500 rounded-xl p-2 h-[50px] w-[100px] text-white text-xs md:text-lg">Submit</button>
+            className="submit bg-orange-500 rounded-xl p-2 h-[50px] w-[100px] tesx text-white text-xs md:text-lg">Submit</button>
         </div>
         </div>
 

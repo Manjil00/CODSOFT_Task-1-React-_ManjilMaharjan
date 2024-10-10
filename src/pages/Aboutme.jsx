@@ -32,7 +32,7 @@ return (
             <h1 className='text-xl md:text-2xl font-bold text-white'>Agile and Scrum Fundamentals <span className='text-blue-500'>(Softwarica College of IT and E-commerce)</span></h1>
             <p className="text-white text-xs md:text-lg font-sans font-normal break-words mt-2">The Agile and Scrum Fundamentals course conducted by Softwarica College provided a strong foundation in modern project management methodologies. The course focused on Agile's iterative approach and the Scrum framework, emphasizing teamwork, flexibility, and continuous improvement. It was valuable for learning how to manage projects efficiently, ensuring adaptability to change and delivering high-quality products. Through real-world examples and hands-on activities, students experienced sprint planning, daily standups, and retrospectives, making it an ideal course for anyone looking to excel in collaborative and dynamic environments. Earning the certificate showcased practical skills for today's fast-paced tech industry.</p>
             </div>
-            <img src='../images/certificatesimg/nextjsBootcamp.png' className='bg-white h-[150px] w-[150px] md:h-[300px] md:w-[300px] mr-2 md:mr-20' alt='certificates'/>
+            <img src='../images/certificatesimg/agileCertificate.jpg' className='bg-white h-[150px] w-[150px] md:h-[300px] md:w-[300px] mr-2 md:mr-20' alt='certificates'/>
         </div>
 
 
@@ -41,7 +41,7 @@ return (
             <h1 className='text-xl md:text-2xl font-bold text-white'>Digital Marketing Workshop <span className='text-blue-500'>(Softwarica College of IT and E-commerce)</span></h1>
             <p className="text-white text-xs md:text-lg font-sans font-normal break-words mt-2">The Digital Marketing Workshop at Softwarica College offered a comprehensive introduction to modern marketing strategies, focusing on digital channels like social media, SEO, content marketing, and analytics. The workshop was designed to help students understand the key tools and techniques for building online brand presence, engaging audiences, and driving growth. Through practical exercises and real-world case studies, participants learned how to create effective campaigns, optimize websites for search engines, and analyze performance metrics. Completing this workshop equipped students with valuable skills to thrive in the fast-evolving digital marketing landscape.</p>
             </div>
-            <img src='../images/certificatesimg/nextjsBootcamp.png' className='bg-white h-[150px] w-[150px] md:h-[300px] md:w-[300px] mr-2 md:mr-20' alt='certificates'/>
+            <img src='../images/certificatesimg/MarketingCerti.jpg' className='bg-white h-[150px] w-[150px] md:h-[300px] md:w-[300px] mr-2 md:mr-20' alt='certificates'/>
         </div>
         </div>
 
